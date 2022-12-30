@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meriemchkir&label=Profile%20views&color=0e75b6&style=flat" alt="meriemchkir" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meriemchkir" alt="meriemchkir" /></a> </p>
-
 - 🌱 I’m currently learning about **Computer Vision and Metaverse**
 
-- 👨‍💻 All of my projects are available at [https://site-10100099-6332-5846.mystrikingly.com/](https://site-10100099-6332-5846.mystrikingly.com/)
+- 👨‍💻 All of my projects are available at [https://personal-portfolio.mystrikingly.com](https://personal-portfolio.mystrikingly.com)
 
 - 📫 How to reach me **meriemchkiiiir@gmail.com**
 
