@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio.mystrikingly.com](https://personal-portfolio.mystrikingly.com)
 
-- 📫 How to reach me **meriem.chkiir@gmail.com**
+- 📫 How to reach me **meriiem.chkir@gmail.com**
 
 - ⚡ Fun fact **I am a harry potter fan**
 
