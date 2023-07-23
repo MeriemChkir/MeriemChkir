@@ -1,4 +1,4 @@
-//![logo](https://github.com/MeriemChkir/chkirmeriem/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner%20(1).png)
+<!--[logo](https://github.com/MeriemChkir/chkirmeriem/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner%20(1).png)-->
 <h1 align="center">Hi 👋, I'm Meriem Chkir</h1>
 <h3 align="center">VR Research Assistant Metaverse Lab MBZUAI, UAE</h3>
 
