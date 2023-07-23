@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning about **Computer Vision and Metaverse**
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio.mystrikingly.com](https://personal-portfolio.mystrikingly.com)
+- 👨‍💻 All of my projects are available at [https://persoportfolio.mystrikingly.com ](https://persoportfolio.mystrikingly.com )
 
 - 📫 How to reach me **meriiem.chkir@gmail.com**
 
