@@ -1,6 +1,6 @@
 <!--[logo](https://github.com/MeriemChkir/chkirmeriem/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner%20(1).png)-->
 <h1 align="center">Hi 👋, I'm Meriem Chkir</h1>
-<h3 align="center">VR Research Assistant Metaverse Lab MBZUAI, UAE</h3>
+<h3 align="center">VR designer and researcher in the Metaverse center MBZUAI, UAE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meriemchkir&label=Profile%20views&color=0e75b6&style=flat" alt="meriemchkir" /> </p>
 
